@@ -1,0 +1,26 @@
+{
+  "name": "newsscrapecomment",
+  "version": "1.0.0",
+  "description": "you leave comments on news articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arif2301/NewsScrapeComment.git"
+  },
+  "author": "arifur rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arif2301/NewsScrapeComment/issues"
+  },
+  "homepage": "https://github.com/arif2301/NewsScrapeComment#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.7.4"
+  }
+}
