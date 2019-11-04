@@ -1,0 +1,1 @@
+News Scrape Comment - please note this app does not work on Heroku. Some of the functions work locally. unable to complete assignment successfully. please use /scrape to start to scraping process
